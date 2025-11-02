@@ -1,6 +1,7 @@
 public class diffstrings {
     public static void main(String[] args) {
-String s1="my";
+        //THIS IS LAB 1 
+        String s1="my";
         String s2="name";
         String s3="is";
         String s4="Syed";
